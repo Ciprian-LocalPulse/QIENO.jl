@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use QIENO.jl in research, please cite this software."
+title: "QIENO.jl: Quantum-Inspired Entropic Neural Operators"
+type: software
+authors:
+  - family-names: "Plesca"
+    given-names: "Ciprian Stefan"
+repository-code: "https://github.com/Ciprian-LocalPulse/QIENO.jl"
+url: "https://ciprian-localpulse.github.io/QIENO.jl/"
+license: MIT
+version: 0.1.0
+date-released: 2026-06-15
+keywords:
+  - scientific machine learning
+  - stochastic dynamics
+  - graph neural operators
+  - entropy production
+  - Julia

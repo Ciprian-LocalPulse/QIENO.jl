@@ -1,0 +1,11 @@
+/Manifest.toml
+/docs/Manifest.toml
+/docs/build/
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+*.prof
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

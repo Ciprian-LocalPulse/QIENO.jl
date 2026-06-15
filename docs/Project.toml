@@ -1,0 +1,6 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+QIENO = "7a8b9c1d-2e3f-4a5b-9c7d-8e9f0a1b2c3d"
+
+[compat]
+Documenter = "1"

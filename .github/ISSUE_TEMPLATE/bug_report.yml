@@ -1,0 +1,27 @@
+name: Bug report
+description: Report reproducible incorrect behavior
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: textarea
+    attributes:
+      label: Description
+      description: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Reproduction
+      description: Provide a minimal Julia example.
+      render: julia
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Julia version
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Environment
+      description: Paste `Pkg.status()` and relevant hardware details.
